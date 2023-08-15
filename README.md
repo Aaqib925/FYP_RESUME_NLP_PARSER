@@ -79,9 +79,7 @@ Open your command prompt and change your project directory to ```AI-Resume-Analy
 ```bash
 python3 -m venv venvapp
 
-cd venvapp/Scripts
-
-activate
+source venvapp/bin/activate
 
 ```
 
